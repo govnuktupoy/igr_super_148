@@ -1,2 +1,2 @@
-/print riaz
+/print ("riaz")
 print("Тимофей")
