@@ -1,1 +1,2 @@
 /print riaz
+print("Тимофей")
